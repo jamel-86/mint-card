@@ -1,11 +1,11 @@
 {
-  "name": "Nerdy Coder Clones",
-  "symbol": "NCC",
-  "total_supply": 1000,
-  "chain_symbol": "MATIC",
-  "chain": "Polygon",
-  "chain_id": 137,
-  "address": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "name": "LuckyTown",
+  "symbol": "LTN",
+  "total_supply": 888,
+  "chain_symbol": "BNB",
+  "chain": "BinanceTestnet",
+  "chain_id": 97,
+  "address": "0xd35522cb08fC25a9747B991C066F30bbEA2A1E9B",
   "abi": [
     {
       "inputs": [

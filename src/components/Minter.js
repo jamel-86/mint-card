@@ -295,7 +295,7 @@ function Minter() {
           }}
           className="_90"
           target="_blank"
-          href="https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192"
+          href="https://testnet.bscscan.com/token/0xd35522cb08fC25a9747B991C066F30bbEA2A1E9B"
         >
           View Contract
         </a>
